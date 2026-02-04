@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Baby Cry Translator",
+    "supabase_url": "https://fbfferzjbxcxfboedbmz.supabase.co",
+    "supabase_key_env": "BABY_CRY_TRANSLATOR",
+    "table_name": "KeepAlive"
+  }
+]
