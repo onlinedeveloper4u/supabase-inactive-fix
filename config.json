@@ -4,5 +4,11 @@
     "supabase_url": "https://fbfferzjbxcxfboedbmz.supabase.co",
     "supabase_key_env": "BABY_CRY_TRANSLATOR",
     "table_name": "KeepAlive"
+  },
+  {
+    "name": "Portfolio",
+    "supabase_url": "https://qnzpytazefmnuybzawlo.supabase.co",
+    "supabase_key_env": "Portfolio",
+    "table_name": "KeepAlive"
   }
 ]
